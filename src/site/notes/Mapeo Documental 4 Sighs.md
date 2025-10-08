@@ -31,7 +31,7 @@
 [[Control de Calidad/Registros/RCC-013\|RCC-013]]
 [[Control de Calidad/Registros/RCC-014\|RCC-014]]
 [[Control de Calidad/Registros/RCC-015\|RCC-015]]
-[[Control de Calidad/Registros/RCC-016\|RCC-016]]
+[[RCC-016\|RCC-016]]
 [[Control de Calidad/Registros/RCC-017\|RCC-017]]
 [[Control de Calidad/Registros/RCC-018\|RCC-018]]
 [[Control de Calidad/Registros/RCC-019\|RCC-019]]
@@ -48,10 +48,10 @@
 
 ## Registros
 [[Planta/Registros/RCAL-001\|RCAL-001]]
-[[Planta/Registros/RCAL-002\|RCAL-002]]
+[[RCAL-002\|RCAL-002]]
 [[Planta/Registros/RCAL-003\|RCAL-003]]
 [[Talento Humano/Registros/RP-001\|Talento Humano/Registros/RP-001]]
-[[Planta/Registros/RP-004\|RP-004]]
+[[RP-004\|RP-004]]
 [[Planta/Registros/RP-005\|RP-005]]
 [[Planta/Registros/RP-010\|RP-010]]
 [[Planta/Registros/RP-011\|RP-011]]
