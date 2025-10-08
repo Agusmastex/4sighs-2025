@@ -5,7 +5,7 @@
 Operación de la columna de destilación.
 
 [[Planta/Registros/RP-005\|RP-005]]
-[[POE CC-014\|POE CC-014]]
+[[Control de Calidad/POEs/POE CC-014\|POE CC-014]]
 [[ICC-004\|ICC-004]]
 [[Planta/POEs/POE P-006\|POE P-006]]
 
