@@ -8,7 +8,7 @@ Uso y limpieza de los fermentadores.
 [[POE P-005\|POE P-005]]
 [[Control de Calidad/POEs/POE CC-005\|POE CC-005]]
 [[Control de Calidad/POEs/POE CC-003\|POE CC-003]]
-[[RCC-006\|RCC-006]]
+[[Control de Calidad/Registros/RCC-006\|RCC-006]]
 [[RP-002\|RP-002]]
 
 Falta POE de acidez total y pH? (POE-004)
