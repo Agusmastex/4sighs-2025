@@ -2,4 +2,6 @@
 {"dg-publish":true,"permalink":"/mapeo-documental-4-sighs/","tags":["gardenEntry"]}
 ---
 
-Utilice el gráfico de nodos o la barra de búsqueda para ubicar los documentos.
+Para ubicar los documentos:
+- Utilice la barra de búsqueda 
+- Utilice el gráfico de nodos (presione el icono de la esfera)
