@@ -40,26 +40,26 @@
 [[RCC-023\|RCC-023]]
 # Planta
 ## POEs
-[[POE P-001\|POE P-001]]
-[[Talento Humano/POEs/POE P-002\|POE P-002]]
-[[POE P-006\|POE P-006]]
-[[POE P-007\|POE P-007]]
-[[POE CAL-001\|POE CAL-001]]
+[[Planta/POEs/POE P-001\|POE P-001]]
+[[Planta/POEs/POE P-002\|POE P-002]]
+[[Planta/POEs/POE P-006\|POE P-006]]
+[[Planta/POEs/POE P-007\|POE P-007]]
+[[Planta/POEs/POE CAL-001\|POE CAL-001]]
 
 ## Registros
-[[RCAL-001\|RCAL-001]]
-[[RCAL-002\|RCAL-002]]
-[[RCAL-003\|RCAL-003]]
-[[Talento Humano/Registros/RP-001\|RP-001]]
-[[RP-004\|RP-004]]
-[[RP-005\|RP-005]]
-[[RP-010\|RP-010]]
-[[RP-011\|RP-011]]
+[[Planta/Registros/RCAL-001\|RCAL-001]]
+[[Planta/Registros/RCAL-002\|RCAL-002]]
+[[Planta/Registros/RCAL-003\|RCAL-003]]
+[[Talento Humano/Registros/RP-001\|Talento Humano/Registros/RP-001]]
+[[Planta/Registros/RP-004\|RP-004]]
+[[Planta/Registros/RP-005\|RP-005]]
+[[Planta/Registros/RP-010\|RP-010]]
+[[Planta/Registros/RP-011\|RP-011]]
 # Talento Humano
 ## POEs
 [[Talento Humano/POEs/POE L-001\|POE L-001]]
 [[Talento Humano/POEs/POE L-002\|POE L-002]]
-[[Talento Humano/POEs/POE P-002\|POE P-002]]
+[[Planta/POEs/POE P-002\|POE P-002]]
 [[Talento Humano/POEs/POE EP-001\|POE EP-001]]
 
 Registros
