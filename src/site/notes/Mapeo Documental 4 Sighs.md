@@ -4,4 +4,4 @@
 
 Para ubicar los documentos:
 - Utilice la barra de búsqueda 
-- Utilice el gráfico de nodos (presione el icono de la esfera)
+- Utilice el gráfico de nodos (presione el icono de la esfera con rayas)
