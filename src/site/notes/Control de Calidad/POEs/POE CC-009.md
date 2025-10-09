@@ -16,3 +16,6 @@ Control de calidad de producto intermedio.
 [[ICC-001\|ICC-001]]
 [[ICC-002\|ICC-002]]
 [[ICC-003\|ICC-003]]
+
+
+ [POE CC-009 Control de calidad de producto intermedio-producción de bebida destilada (Caña paraguaya).docx](https://drive.google.com/open?id=1ff8tcKAnk4lNw8q-z6ySjN6Yv-eMGVg_&usp=drive_copy) 

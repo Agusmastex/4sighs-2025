@@ -10,3 +10,5 @@ Operación de la columna de destilación.
 [[Planta/POEs/POE P-006\|POE P-006]]
 
 Falta POE de torre de enfriamiento? (POE P-004)
+
+[POE P-001 Puesta en marcha, uso y parada de la columna de destilación.docx](https://drive.google.com/open?id=1IGXzYO6oZzeX71zXZ7ewMVMNq8snbEHH&usp=drive_copy)

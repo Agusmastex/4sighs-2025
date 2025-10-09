@@ -10,3 +10,5 @@ Uso y limpieza de los fermentadores.
 [[Control de Calidad/POEs/POE CC-003\|POE CC-003]]
 [[Control de Calidad/Registros/RCC-006\|RCC-006]]
 [[RP-002\|RP-002]]
+
+[POE P-002 Uso y Limpieza del Fermentador.docx](https://drive.google.com/open?id=1zGh8fbmBm88bug0v_pkM_bfmVkqTTU8Q&usp=drive_copy)

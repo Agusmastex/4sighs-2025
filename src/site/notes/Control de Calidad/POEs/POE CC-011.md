@@ -12,3 +12,6 @@ Esto es necesario para poder efectuar el procedimiento de Recall (retiro de prod
 [[Control de Calidad/POEs/POE CC-016\|POE CC-016]]
 
 [[Control de Calidad/Registros/RCC-011\|RCC-011]]
+
+
+ [POE CC-011 Control y liberación del producto terminado. Bebida destilada (caña paraguaya). VER 002.docx](https://drive.google.com/open?id=1WRVRGpZZdyR7Ea2ATw_cz6mKnHkVQBdE&usp=drive_copy)   

@@ -12,3 +12,5 @@ Uso y limpieza de los fermentadores.
 [[RP-002\|RP-002]]
 
 Falta POE de acidez total y pH? (POE-004)
+
+[POE P-002 Uso y Limpieza del Fermentador.docx](https://drive.google.com/open?id=1apTElcAQLDnbTrif5_eAC5aH3th--QNI&usp=drive_copy)
