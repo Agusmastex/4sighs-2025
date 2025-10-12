@@ -14,7 +14,7 @@ Control de calidad de producto intermedio.
 [[Control de Calidad/Registros/RCC-019\|RCC-019]]
 
 [[ICC-001\|ICC-001]]
-[[ICC-002\|ICC-002]]
+[[Instructivos/ICC-002\|ICC-002]]
 [[ICC-003\|ICC-003]]
 
 
